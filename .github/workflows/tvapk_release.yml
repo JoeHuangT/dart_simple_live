@@ -1,4 +1,4 @@
-name: tvapk-build-action
+name: tvapk-release
 #推送Tag时触发
 on: 
   # workflow_dispatch:
