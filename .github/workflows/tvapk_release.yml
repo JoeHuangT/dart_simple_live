@@ -1,6 +1,10 @@
 name: tvapk-build-action
 #推送Tag时触发
-on: workflow_dispatch
+on: 
+  # workflow_dispatch:
+  push:
+    tags:
+      - "tv_*"
 jobs:
   build-tv:
     runs-on: macos-latest
