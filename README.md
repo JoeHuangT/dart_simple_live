@@ -1,4 +1,4 @@
-> ### ⚠ 本项目不提供Release安装包，请自行编译后运行测试。
+> ### ⚠ 本项目提供tv版本的Release安装包。
 
 
 <p align="center">
